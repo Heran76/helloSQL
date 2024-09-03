@@ -1,0 +1,1 @@
+SELECT titulo, duracion FROM episodios ORDER BY duracion DESC

@@ -1,0 +1,1 @@
+SELECT * FROM Series LIMIT 5;
