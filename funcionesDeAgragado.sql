@@ -1,0 +1,1 @@
+SELECT sum(duracion) AS suma_duracion FROM Episodios;

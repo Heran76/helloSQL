@@ -1,0 +1,1 @@
+SELECT serie_id, MAX(duracion) FROM Episodios GROUP BY 1
