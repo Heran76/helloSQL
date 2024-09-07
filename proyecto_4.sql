@@ -28,4 +28,4 @@ LIMIT 3;
 SELECT SUM(Episodios.duracion) AS duracion_total
 FROM Series
 INNER JOIN Episodios ON Series.serie_id = Episodios.serie_id
-WHERE Series.titulo = 'Stranger Things';
+WHERE Series.titulo = 'Stranger Things'
