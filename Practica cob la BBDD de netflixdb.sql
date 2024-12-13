@@ -5,7 +5,6 @@ SELECT actor_id, COUNT(serie_id) AS numero_de_series FROM actuaciones GROUP By a
 
 -- Pregunta 2
 -- ¿Cual es la serie con mejor rating prodemdio según imdb?
-
 SELECT serie_id, AVG(rating_imdb) AS rating_promedio
 FROM episodios
 GROUP BY serie_id
