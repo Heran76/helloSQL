@@ -1,4 +1,5 @@
 -- Insertar datos en la tabla Desarrolladores
+
 INSERT INTO Desarrolladores (Nombre, País) VALUES 
 ('Naughty Dog', 'Estados Unidos'),
 ('Nintendo', 'Japón'),

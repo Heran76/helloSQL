@@ -1,1 +1,3 @@
-SELECT serie_id, MAX(duracion) FROM Episodios GROUP BY 1
+
+SELECT serie_id, MAX(duracion)
+FROM Episodios GROUP BY 1
