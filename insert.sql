@@ -6,6 +6,7 @@ INSERT INTO Desarrolladores (Nombre, País) VALUES
 ('CD Projekt Red', 'Polonia');
 
 -- Insertar datos en la tabla Plataformas
+
 INSERT INTO Plataformas (Nombre, Tipo) VALUES 
 ('PlayStation 4', 'Consola'),
 ('Nintendo Switch', 'Consola'),
